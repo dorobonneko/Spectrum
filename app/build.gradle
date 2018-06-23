@@ -5,9 +5,9 @@ android {
     buildToolsVersion "21.1.0"
 
     defaultConfig {
-        applicationId "com.moe.revoltspectrum"
-        minSdkVersion 14
-        targetSdkVersion 21
+        applicationId "com.moe.spectrum"
+        minSdkVersion 20
+        targetSdkVersion 27
         versionCode 1
         versionName "1.0"
     }
